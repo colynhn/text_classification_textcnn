@@ -38,16 +38,18 @@
   
   （3）其他，bulabulabula 待研究
 
-参考：http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+参考：
+   
+   http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
 
-     https://www.cnblogs.com/jiangxinyang/p/10207273.html 
+   https://www.cnblogs.com/jiangxinyang/p/10207273.html 
      
-     https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html
+   https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html
      
      
    shout to 以上大佬s
           
-                                                                                          peace & love
+                                                                           peace & love
    
                                   
  
