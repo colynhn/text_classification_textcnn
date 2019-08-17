@@ -1,31 +1,32 @@
 1、数据集：
    
-   数据集来源：今日头条中文新闻（文本）分类数据集
+   (1) 数据集来源：今日头条中文新闻（文本）分类数据集
 
-   数据集说明参考：https://github.com/fate233/toutiao-text-classfication-dataset
+   (2) 数据集说明参考：https://github.com/fate233/toutiao-text-classfication-dataset
 
 2、数据集处理：
 
-   说明：14分类，完整数据集每类20w数据
+   (1) 说明：14分类，完整数据集每类20w数据
     
-   输入原始数据集：labeled_toutiao_cat_data.txt 
+   (2) 输入原始数据集：labeled_toutiao_cat_data.txt 
    
-   代码：word2vec/handle_data.py 
+   (3) 代码：word2vec/handle_data.py 
    
-   生成数据 handled_data/seg_pure_data.txt 
+   (4) 生成数据 handled_data/seg_pure_data.txt 
 
 3、训练词向量：
 
-  输入处理后数据：seg_pure_data.txt
+   (1) 输入处理后数据：seg_pure_data.txt
   
-  代码：word2vec/word2vec_model.py
+   (2) 代码：word2vec/word2vec_model.py
   
-  训练后model：save_model/word2vec.model    saved_model/word2vec.txt
+   (3)训练后model：save_model/word2vec.model    saved_model/word2vec.txt
  
 4、textCNN训练：
   
-  小数据集：python text_cnn.py 0  
-  完整数据集：python text_cnn.py 1
+   (1)小数据集：python text_cnn.py 0  
+  
+   (2)完整数据集：python text_cnn.py 1
   
 5、结果：
 
