@@ -37,7 +37,7 @@
   
   （2）数据采用char级别训练可能效果更好
   
-  （3）其他，bulabulabula 待研究
+  （3）其他，blablablablablabla 待研究
 
 参考：
    
